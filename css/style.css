@@ -1,0 +1,37 @@
+.myform{
+    float: left;
+
+}
+label.main{
+    float: left;
+    padding-right: 15px;
+}
+.form{
+    clear: both;
+    text-align: right;
+    line-height: 25px;
+}
+
+.one{
+    color: red;
+    margin-left: 300px;
+    padding-top: 5px;
+    line-height: 20px;
+}
+.language{
+    margin-left: 300px;
+}
+body {
+    width: 1000px;
+}
+.profile {
+    color: brown;
+    margin-left: 20px;
+    font-family: cursive;
+}
+.profile h1{
+    color: blueviolet;
+}
+.profile h3 {
+    color: gray;
+}
